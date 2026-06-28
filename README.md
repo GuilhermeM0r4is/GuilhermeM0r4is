@@ -1,6 +1,6 @@
 ## About Me 👋
 
-I'm Guilherme, an 18-year-old engineering student from :contentReference[oaicite:0]{index=0} with a strong passion for games, programming, and building creative ideas.  
+I'm Guilherme, an 18-year-old engineering student from IST (Instituto Superior Técnico) with a strong passion for games, programming, and building creative ideas.  
 I'm ambitious by nature and constantly sketching new concepts, systems, and projects — although many of them still live in the design phase, waiting for the right moment to be built.  
 
 My main programming background includes Python, C, Prolog (yes, old-school YAP Prolog), and Assembly, while I’m continuously learning new languages and expanding my technical toolbox.
