@@ -45,7 +45,12 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 
 ---
 
+🐍 The Commit Snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeM0r4is/GuilhermeM0r4is/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeM0r4is/GuilhermeM0r4is/output/github-contribution-grid-snake.svg" /> <img alt="Commit snake eating my contribution graph" src="https://raw.githubusercontent.com/GuilhermeM0r4is/GuilhermeM0r4is/output/github-contribution-grid-snake.svg" /> </picture> </p>
+
 ## 🔗 Connect With Me
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-morais-6a5898418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
