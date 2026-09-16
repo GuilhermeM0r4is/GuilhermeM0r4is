@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+at+IST;Python,+C,+Prolog,+and+Assembly;Building+a+personal+productivity+system&font=Fira%20Code&center=true&width=560&height=45&color=1E90FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+at+IST;Python,+C,+C++,+Prolog,+Rust,+and+Assembly;Building+a+personal+productivity+system&font=Fira%20Code&center=true&width=560&height=45&color=1E90FF&vCenter=true&size=22" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm ambitious by nature and constantly sketching new concepts, systems, and proj
 
 My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assembly**, and I'm continuously expanding my toolbox with new languages.
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building a personal Python-based productivity system, using custom terminal commands, with the long-term goal of evolving it into a self-built AI assistant for organization and automation.
 - Studying Computer Engineering at IST.
@@ -24,7 +24,7 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 - Happy to talk technology, ideas, personal interests, and long-term goals.
 - Reach me through my socials below.
 
-## 🧩 Fun Facts
+## Fun Facts
 
 - I don't drink coffee at all.
 - I enjoy exploring multiple hobbies and learning new skills.
@@ -32,16 +32,15 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 
 ---
 
-## 📊 Language Usage
+## Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cb=1" alt="Language usage donut chart" width="42%" />
-  <img src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cb=1" alt="Language usage bars" width="42%" />
+  <img src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cb=1" alt="Language usage bars" width="100%" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-seven-jet-26.vercel.app/api?username=GuilhermeM0r4is&show_icons=true&theme=tokyonight&hide_border=true&cb=1" />
