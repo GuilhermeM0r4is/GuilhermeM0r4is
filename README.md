@@ -35,8 +35,8 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 ## 📊 Language Usage
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeM0r4is](https://github-readme-stats-seven-jet-26.vercel.app/)&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Language usage donut chart" width="42%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeM0r4is](https://github-readme-stats-seven-jet-26.vercel.app/)&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language usage bars" width="42%" />
+  <img src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Language usage donut chart" width="42%" />
+  <img src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language usage bars" width="42%" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=GuilhermeM0r4is](https://github-readme-stats-seven-jet-26.vercel.app/)&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-seven-jet-26.vercel.app/api?username=GuilhermeM0r4is&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=GuilhermeM0r4is&theme=tokyonight&hide_border=true" />
 </p>
 
