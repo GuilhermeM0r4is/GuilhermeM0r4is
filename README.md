@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+at+IST;Python,+C,+C++,+Prolog,+Rust,+and+Assembly;Building+a+personal+productivity+system&font=Fira%20Code&center=true&width=560&height=45&color=1E90FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+at+IST;Python,+C,+Cpp,+Prolog,+Rust,+and+Assembly;Building+a+personal+productivity+system&font=Fira%20Code&center=true&width=560&height=45&color=1E90FF&vCenter=true&size=22" />
 </p>
 
 ---
