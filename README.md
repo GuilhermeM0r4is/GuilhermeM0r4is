@@ -14,7 +14,7 @@ I'm **Guilherme**, an 18-year-old engineering student at **Instituto Superior TÃ
 
 I'm ambitious by nature and constantly sketching new concepts, systems, and projects, many of which are still in the design phase, waiting for the right moment to be built.
 
-My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assembly**, and I'm continuously expanding my toolbox with new languages.
+My programming background spans **Python, C, C++, Rust, Typescript, Prolog** (YAP Prolog), and **Assembly**, and I'm continuously expanding my toolbox with new languages.
 
 ## Current Focus
 
