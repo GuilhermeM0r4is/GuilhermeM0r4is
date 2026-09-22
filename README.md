@@ -35,12 +35,12 @@ My programming background spans **Python, C, Prolog** (YAP Prolog), and **Assemb
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-seven-jet-26.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cb=1" alt="Language usage bars" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeM0r4is&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language usage bars" width="100%" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-seven-jet-26.vercel.app/api?username=GuilhermeM0r4is&show_icons=true&theme=tokyonight&hide_border=true&cb=1" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=GuilhermeM0r4is&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeM0r4is&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=GuilhermeM0r4is&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
