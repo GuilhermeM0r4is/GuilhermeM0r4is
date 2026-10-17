@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm **Guilherme**, an 18-year-old engineering student at **Instituto Superior Técnico (IST)**, with a strong passion for games, programming, and building creative ideas.
+I'm **Guilherme**, an 19-year-old engineering student at **Instituto Superior Técnico (IST)**, with a strong passion for games, programming, and building creative ideas.
 
 I'm ambitious by nature and constantly sketching new concepts, systems, and projects, many of which are still in the design phase, waiting for the right moment to be built.
 
